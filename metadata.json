@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "Aetherial — Spatial Task & Information Canvas",
+  "description": "An adaptive 3D spatial information substrate and physics sandbox featuring faceted polyhedra bubbles, passing trains, kinetic typography, and mechanical contraption widgets powered by Gemini and Google Workspace.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

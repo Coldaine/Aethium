@@ -1,1 +1,15 @@
 @import "tailwindcss";
+@import "tw-animate-css";
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+  body {
+    background-color: #07090e;
+    color: #e2e8f0;
+    overflow: hidden;
+    user-select: none;
+    -webkit-font-smoothing: antialiased;
+  }
+}
